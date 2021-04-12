@@ -29,18 +29,14 @@ namespace ExcecoesPersonalizadas
                 System.Console.Write("Check-out date (dd/MM/yyyy): ");
                 checkOut = DateTime.Parse(Console.ReadLine());
 
-                DateTime now = DateTime.Now;
-                if (checkIn < now || checkOut < now)
+                string error = reservation.UpdateDates(checkIn, checkOut);
+
+                if (error != null)
                 {
-                    System.Console.WriteLine("Error in reservation: Reservation dates for updates must be futures dates");
-                }
-                else if (checkOut <= checkIn)
-                {
-                    System.Console.WriteLine("Error in reservation: Check-out date must be after check-in date");
+                    System.Console.WriteLine("Error in reservation: " + error);
                 }
                 else
                 {
-                    reservation.UpdateDates(checkIn, checkOut);
                     System.Console.WriteLine("Reservation: " + reservation);
                 }
             }
