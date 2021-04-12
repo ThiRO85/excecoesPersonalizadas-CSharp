@@ -1,0 +1,16 @@
+C:\Users\CLIENTE\Documents\WorkSpaceVSCode\ExcecoesPersonalizadas\bin\Debug\net5.0\ExcecoesPersonalizadas.exe
+C:\Users\CLIENTE\Documents\WorkSpaceVSCode\ExcecoesPersonalizadas\bin\Debug\net5.0\ExcecoesPersonalizadas.deps.json
+C:\Users\CLIENTE\Documents\WorkSpaceVSCode\ExcecoesPersonalizadas\bin\Debug\net5.0\ExcecoesPersonalizadas.runtimeconfig.json
+C:\Users\CLIENTE\Documents\WorkSpaceVSCode\ExcecoesPersonalizadas\bin\Debug\net5.0\ExcecoesPersonalizadas.runtimeconfig.dev.json
+C:\Users\CLIENTE\Documents\WorkSpaceVSCode\ExcecoesPersonalizadas\bin\Debug\net5.0\ExcecoesPersonalizadas.dll
+C:\Users\CLIENTE\Documents\WorkSpaceVSCode\ExcecoesPersonalizadas\bin\Debug\net5.0\ref\ExcecoesPersonalizadas.dll
+C:\Users\CLIENTE\Documents\WorkSpaceVSCode\ExcecoesPersonalizadas\bin\Debug\net5.0\ExcecoesPersonalizadas.pdb
+C:\Users\CLIENTE\Documents\WorkSpaceVSCode\ExcecoesPersonalizadas\obj\Debug\net5.0\ExcecoesPersonalizadas.csprojAssemblyReference.cache
+C:\Users\CLIENTE\Documents\WorkSpaceVSCode\ExcecoesPersonalizadas\obj\Debug\net5.0\ExcecoesPersonalizadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CLIENTE\Documents\WorkSpaceVSCode\ExcecoesPersonalizadas\obj\Debug\net5.0\ExcecoesPersonalizadas.AssemblyInfoInputs.cache
+C:\Users\CLIENTE\Documents\WorkSpaceVSCode\ExcecoesPersonalizadas\obj\Debug\net5.0\ExcecoesPersonalizadas.AssemblyInfo.cs
+C:\Users\CLIENTE\Documents\WorkSpaceVSCode\ExcecoesPersonalizadas\obj\Debug\net5.0\ExcecoesPersonalizadas.csproj.CoreCompileInputs.cache
+C:\Users\CLIENTE\Documents\WorkSpaceVSCode\ExcecoesPersonalizadas\obj\Debug\net5.0\ExcecoesPersonalizadas.dll
+C:\Users\CLIENTE\Documents\WorkSpaceVSCode\ExcecoesPersonalizadas\obj\Debug\net5.0\ref\ExcecoesPersonalizadas.dll
+C:\Users\CLIENTE\Documents\WorkSpaceVSCode\ExcecoesPersonalizadas\obj\Debug\net5.0\ExcecoesPersonalizadas.pdb
+C:\Users\CLIENTE\Documents\WorkSpaceVSCode\ExcecoesPersonalizadas\obj\Debug\net5.0\ExcecoesPersonalizadas.genruntimeconfig.cache
